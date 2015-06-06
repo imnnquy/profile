@@ -11,6 +11,7 @@ if(empty($_POST['name'])  		||
    }
 	
 $name = $_POST['name'];
+var_dump($name);
 $email_address = $_POST['email'];
 $phone = $_POST['phone'];
 $message = $_POST['message'];
@@ -22,5 +23,6 @@ $email_body = "You have received a new message from your website contact form.\n
 $headers = "From: noreply@yourdomain.com\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
 $headers .= "Reply-To: $email_address";	
 mail($to,$email_subject,$email_body,$headers);
+echo "conmeoden";
 return true;			
 ?>

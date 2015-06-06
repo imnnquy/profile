@@ -30,7 +30,8 @@ $(function() {
                     message: message
                 },
                 cache: false,
-                success: function() {
+                success: function(data) {
+                    console.log(data);
                     // Enable button & show success message
                     $("#btnSubmit").attr("disabled", false);
                     $('#success').html("<div class='alert alert-success'>");
