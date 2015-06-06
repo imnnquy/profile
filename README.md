@@ -1,16 +1,10 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+# [NNQUY Profile Page](http://nnquy.github.io/profile/) - [Freelancer](https://www.freelancer.com/u/nnquy.html)
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
-
-## Getting Started
-
-To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+[NNQUY Profile Page](http://nnquy.github.io/profile/) is a one page profile that I developed to introduce myself, this page is based on template [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) of [Bootstrap](http://getbootstrap.com/).
 
 ## Bugs and Issues
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
+Have a bug or an issue with this theme? [Open a new issue](https://github.com/nnquy/profile/issues) here on GitHub.
 
 ## Creator
 
