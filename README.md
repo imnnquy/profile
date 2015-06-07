@@ -8,6 +8,8 @@ Have a bug or an issue with this theme? [Open a new issue](https://github.com/nn
 
 ## Creator
 
+I developed this project from Start Bootstrap template, so below is their credit for their awesome project.
+
 Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
 * https://twitter.com/davidmillerskt
