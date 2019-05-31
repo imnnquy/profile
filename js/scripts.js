@@ -23,7 +23,7 @@ window.onload = function() {
 
   var messages = [
     'Hey there 👋',
-    'I\'m Quy /\'kwi/',
+    'Quý /\'kwi/ here 👀',
     'I design and code things on the web',
     'I\'m currently living in Singapore and travelling to Saigon every month on weekends',
     'Open to meet new friends',
