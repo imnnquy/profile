@@ -28,7 +28,7 @@ window.onload = function() {
     'I\'m currently living in Singapore and travelling to Saigon every month on weekends, open to meet new friends.',
     'You can contact me at <a href="mailto:me@imnnquy.com">me@imnnquy.com</a>',
     'You can connect my linkedin here: <a target="_blank" href="https://sg.linkedin.com/in/imnnquy">imnnquy</a>',
-    'My github profile: <a target="_blank" href="https://github.com/imnnquy">imnnquy</a>',
+    'My github: <a target="_blank" href="https://github.com/imnnquy">imnnquy</a>',
     getCurrentTime(),
     '👀 Q.'
   ]
