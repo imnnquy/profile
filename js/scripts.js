@@ -24,8 +24,10 @@ window.onload = function() {
   var messages = [
     'Hey there 👋',
     'Quý /\'kwi/ here 👀',
-    'I design and code things for webs, sometimes I play with mobile apps as well',
-    'I\'m currently living in Singapore and travelling to Saigon every month on weekends',
+    'I design and code things for webs',
+    'Sometimes I play with mobile apps as well',
+    'I\'m currently living in Singapore',
+    'Travelling to Saigon every month on weekends',
     'Open to meet new friends',
     'You can contact me at <a href="mailto:me@imnnquy.com">me@imnnquy.com</a>',
     'Connect my linkedin here: <a target="_blank" href="https://sg.linkedin.com/in/imnnquy">imnnquy</a>',
