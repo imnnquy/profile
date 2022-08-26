@@ -21,12 +21,36 @@
   <script src="js/scripts.js"></script>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5C9W94WR2W"></script>
+<!--   <script async src="https://www.googletagmanager.com/gtag/js?id=G-5C9W94WR2W"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
     gtag('config', 'G-5C9W94WR2W');
+  </script> -->
+  
+  <script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.9.3/firebase-app.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.9.3/firebase-analytics.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    const firebaseConfig = {
+      apiKey: "AIzaSyC-FHB-4YWoPBqc8BBCaT35i8u6FvuOsII",
+      authDomain: "personal-profile-quynguyen.firebaseapp.com",
+      projectId: "personal-profile-quynguyen",
+      storageBucket: "personal-profile-quynguyen.appspot.com",
+      messagingSenderId: "125772415716",
+      appId: "1:125772415716:web:1998c7d67a7797a7f4a2f1",
+      measurementId: "G-R99M5KZ3BJ"
+    };
+
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    const analytics = getAnalytics(app);
   </script>
 </body>
